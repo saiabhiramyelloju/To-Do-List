@@ -1,14 +1,14 @@
 .containar {
 	display: flex;
 	flex-direction: column;
-	width: 300px;
+	width: auto;
 	box-shadow: 3px 20px 100px rgba(1, 1, 1, 0.5);
 	border-top: 5px solid #009578;
 	border-bottom: 5px solid #009578;
 	border-color: #009578;
 	border-radius: 20px;
 	align-items: center;
-	margin-left: auto;
+	margin-center: auto;
 }
 
 .todo {
